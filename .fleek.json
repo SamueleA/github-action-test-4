@@ -1,0 +1,14 @@
+{
+  "site": {
+    "id": "2a5c7a44-00fc-4e2a-99cc-7e2dfdbf1e34",
+    "team": "samuele-fleek2-team",
+    "platform": "ipfs",
+    "source": "ipfs",
+    "name": "holy-hall-7086"
+  },
+  "build": {
+    "baseDir": "",
+    "publicDir": "build",
+    "rootDir": ""
+  }
+}
